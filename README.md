@@ -1,4 +1,4 @@
-# Content-Based-Movie-Recommender-System using Ajax
+# Content-Based-Movie-Recommender-System-using-Ajax
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
