@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Content-Based-Movie-Recommender-System
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
